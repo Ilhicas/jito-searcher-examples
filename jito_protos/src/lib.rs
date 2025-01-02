@@ -1,5 +1,4 @@
 pub mod convert;
-
 pub mod block {
     tonic::include_proto!("block");
 }
